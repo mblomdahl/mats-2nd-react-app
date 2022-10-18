@@ -1,5 +1,9 @@
 {
   "name": "mats-2nd-react-app",
+  "engines": {
+    "yarn": "^1",
+    "node": ">=16 <19"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
